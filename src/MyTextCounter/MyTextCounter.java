@@ -19,6 +19,6 @@ public class MyTextCounter {
         }
 
         System.out.println("You wrote " + myCounter.getCharacters() + " characters");
-        System.out.println("You wrote " + myCounter.getRows() + " rows");
+        System.out.println("You wrote " + myCounter.getRows() + "rows");
     }
 }
