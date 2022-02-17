@@ -19,7 +19,7 @@ public class Övning9 {
         System.out.println("Arean: " + (Math.round(A)));
         System.out.println("Omkretsen: " + (Math.round(O)));
 
-
+        System.out.print("hej");
 
     }
 }
